@@ -10,4 +10,4 @@ def gcd(a,b):
             y = r
             r = x%y
         return y
-print(gcd(6,15))
+print(gcd(2020,520))
